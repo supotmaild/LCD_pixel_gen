@@ -7,3 +7,5 @@ LCD pixel font generator to write lcd_font.py that can import to your project
 - ตัวแปรของท่านจะอยู่ในรูป array ของรหัส ascii windows-874 มี 256อะเรย์
 - ใช้งานโดย font.data[161][0] 161 คือ ก ไก่ [0] คือแนวตั้งแรกของ byte ที่ดอท pixel ได้ แปดหน่วย pixel บรรทัด
 - วิธี byte แนวตั้งนำมาจากการ plot ของจอแบบ LCD ขาวดำทั่วไป ที่ใช้ในอิเลกทรอนิกส์ขนาดเล็ก
+
+![LCD_gen2](http://2.bp.blogspot.com/-GWj7eekaav8/VZ-7GD9xSPI/AAAAAAAAAbQ/UT8xppDJHzI/s1600/LCD_FONT2.jpg)
